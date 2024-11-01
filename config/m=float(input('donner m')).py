@@ -1,0 +1,12 @@
+x=25
+y=4
+z=10
+a=x//y
+b=x%y+2*(x-1)
+c=y+z%
+print(a=)
+print(a)
+print(b=)
+print(b)
+print(c=)
+print(c)
